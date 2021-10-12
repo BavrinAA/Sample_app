@@ -26,6 +26,8 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
     # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 gem 'rails-controller-testing'
